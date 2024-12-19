@@ -1,0 +1,34 @@
+/* ProductDetails.css */
+
+.containerr {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #787978;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-imagee {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.product-detailsss {
+    font-size: 24px;
+    line-height: 1.5;
+    background-color: #787978;
+    color: white;
+}
+
+.product-detailss:hover {
+    background-color: #2a2a2a;
+}
+
+.product-detailss {
+    background-color: #787978;
+    color: white;
+}
